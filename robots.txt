@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bangashali42-hue.github.io/al-reza-dental/sitemap.xml
